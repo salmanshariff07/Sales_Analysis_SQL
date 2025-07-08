@@ -1,0 +1,10 @@
+Create Following Reports from Data;
+
+1.Total Sales by Category
+2.Total Sales by Employee (Last Name) by Year
+3.No Of Sale Transactions by Shipper Company
+4.List of Products Supplied by Country
+5.Total Sales By Product Name
+6.Total Sales By Customer Company Name
+	-Top 10 Selling Products
+	-Top 10 Customers (by Sales)
